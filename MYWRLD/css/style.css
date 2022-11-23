@@ -32,16 +32,21 @@ body {
     width: 50%;
     padding: 150px;
     margin-right: 50%;
-    margin-left: 19%;
+    margin-left: 5%;
     text-align: center;
     margin-top: 100px;
 }
 
 .contact h2 {
     margin-top: -100px;
+    font-size: 30px;
 }
 
-.contact input {
-    margin-top: 100px;
-    
+.contactlabel {
+    color: rgb(255, 255, 3);
+    letter-spacing: 3px;
+    margin-bottom: 100px;
+    font-size: 12px;
+    font-weight: 200;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
